@@ -1,1 +1,1 @@
-const { niceLogger, messageRepeater } = require("./niceLogger");
+var { niceLogger, messageRepeater } = require("./niceLogger");
